@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOrganizer.ConsoleApp", "RecipeOrganizer.ConsoleApp\RecipeOrganizer.ConsoleApp.csproj", "{39B579C6-9531-4989-BF30-73EE40589CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOrganizer.Dal", "RecipeOrganizer.Dal\RecipeOrganizer.Dal.csproj", "{9C8DF8F3-68ED-4D70-B627-3B9BCA8613DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B579C6-9531-4989-BF30-73EE40589CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B579C6-9531-4989-BF30-73EE40589CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B579C6-9531-4989-BF30-73EE40589CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B579C6-9531-4989-BF30-73EE40589CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8DF8F3-68ED-4D70-B627-3B9BCA8613DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8DF8F3-68ED-4D70-B627-3B9BCA8613DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8DF8F3-68ED-4D70-B627-3B9BCA8613DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8DF8F3-68ED-4D70-B627-3B9BCA8613DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
